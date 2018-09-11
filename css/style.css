@@ -103,7 +103,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     font-size: 1.8em;
     height: 63px;
     color: #fff;
-	 padding:15px 0;
+	 padding: 5px;
+   border: 3px solid black;
 }
 /*-- agileits --*/
 .logo h1 {
@@ -733,7 +734,7 @@ p.counter {
 	 font-size:2em;
     text-transform: uppercase;
        color: #44c7f4;
-	
+
 }
 .count {
     padding-top: 11em;
@@ -1020,7 +1021,7 @@ p.counter {
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
@@ -1122,7 +1123,7 @@ p.counter {
 		display: block;
 		padding:14px 6px;
 	}
-}	
+}
 @media (max-width: 991px){
 	#home {
 		min-height: 559px;
@@ -1295,7 +1296,7 @@ p.counter {
 		font-size: 1.8em;
 		margin: 0.3em 0;
 	}
-	
+
 }
 @media (max-width: 667px){
 	#home {
@@ -1638,7 +1639,7 @@ p.counter {
 		bottom: -117%;
 		left: 26%;
 	}
-	
+
 	.banner img {
 		border: 5px solid #44c7f4;
 		width: 45%;
