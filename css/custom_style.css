@@ -33,6 +33,15 @@
 	border-color: white;
 	border-radius: 10px;
 }
+.Could_Be_Jams_Playlist {
+	text-align: center;
+	padding-bottom: 15px;
+	padding-top: 10px;
+	background: gray;
+	border-style: solid;
+	border-color: white;
+	border-radius: 10px;
+}
 .soundcloud_link {
 	margin-top: 10px;
 	text-align: center;
