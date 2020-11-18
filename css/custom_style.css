@@ -83,7 +83,7 @@ a, a:hover, a:focus, a:active {
 
 /* Style the collapsible content. Note: hidden by default */
 .content {
-  padding: 0 90px;
+  padding: 0 18px;
   display: none;
   background-color: #f1f1f1;
 }
@@ -93,7 +93,7 @@ a, a:hover, a:focus, a:active {
 .concert_title {
 	text-decoration: bold;
 	color: black;
-	font-size: 24pt;
+	font-size: 4.7vw;
 	padding-left: 15px;
 	padding-right: 15px;
 	margin: 30px;
