@@ -63,3 +63,50 @@ a, a:hover, a:focus, a:active {
  .push_bot {
 	 margin-bottom: 0%;
  }
+ /* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  padding: 0 90px;
+  display: none;
+  background-color: #f1f1f1;
+}
+.center_align {
+	text-align: center;
+}
+.concert_title {
+	text-decoration: bold;
+	color: black;
+	font-size: 24pt;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 30px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-color: black;
+	border-radius: 10px;
+}
+.concert_col {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+.concert_col_single {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
