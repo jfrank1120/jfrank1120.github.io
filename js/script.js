@@ -11,4 +11,11 @@ function setupCollapse() {
 		    }
   		});
 	}
+	calcTotalConcerts()
+}
+
+function calcTotalConcerts() {
+	var numTags = document.getElementsByClassName('concert_title');
+	var numBands = (numTags.length - 3);
+	document.getElementById('numSeenText').innerText = numBands;
 }
