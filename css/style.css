@@ -24,6 +24,11 @@ ul,label{
 	margin:0;
 	padding:0;
 }
+
+#headshot{
+	width: 25%;
+	height: 25%;
+}
 body a:hover{
 	text-decoration:none;
 }
